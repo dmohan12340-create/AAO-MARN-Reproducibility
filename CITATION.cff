@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software archive and the associated manuscript."
+title: "AAO-MARN Reproducibility"
+type: software
+authors:
+  - family-names: "D"
+    given-names: "Mohan"
+  - family-names: "Girija"
+    given-names: "M. S."
+version: "0.1.0"
+date-released: "2026-08-11"
+repository-code: "REPLACE_WITH_PUBLIC_GITHUB_URL"
+abstract: "Reproducible implementation of a binary plant-disease screening pipeline integrating CLAHE, SLIC, K-means, VGG16, GOA feature selection, multi-head attention, recurrent spatial-context modelling, and Artificial Algae Optimization."
+keywords:
+  - plant disease detection
+  - AAO-MARN
+  - artificial algae optimization
+  - grasshopper optimization
+  - attention
+  - reproducibility
